@@ -1,0 +1,38 @@
+<annotation>
+	<folder>fighter_resized</folder>
+	<filename>fighter (088).jpg</filename>
+	<path>C:\Object_Detection_Mobile\fighter_resized\fighter (088).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>68</ymin>
+			<xmax>157</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>69</ymin>
+			<xmax>215</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

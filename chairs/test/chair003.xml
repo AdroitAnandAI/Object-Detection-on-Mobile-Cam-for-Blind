@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>chair003.jpg</filename>
+	<path>C:\Food_Detection-master\chairs\test\chair003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>253</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>22</ymin>
+			<xmax>201</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>
